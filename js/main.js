@@ -24,7 +24,7 @@ function firstQuestion(){
         text: CONFIG.introDesc,
         imageUrl: 'img/5k.jpg',
         imageWidth: 300,
-        imageHeight: 300,
+        imageHeight: 400,
         background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
