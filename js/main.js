@@ -96,7 +96,7 @@ function textGenerate() {
 
 // show popup
 $('#yes').click(function() {
-    var audio = new Audio('sound/y2mate.com - Ghen Cô Vy NIOEH x KHƯNG x MIN x ERIK  WASHING HAND SONG  CORONA SONG_320kbps.mp3');
+    var audio = new Audio('sound/ghencovy.mp3');
     audio.play();
     Swal.fire({
         title: CONFIG.question,
