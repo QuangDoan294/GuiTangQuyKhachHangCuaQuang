@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Dịch bệnh Covid đang diễn biến khó lường. Bạn hãy giữ gìn sức khỏe và cùng cộng đồng phòng chống dịch nhé`,
     btnIntro: 'Tiếp tục...',
     title: 'Hãy luôn thực hiện tốt chỉ thị 5K để giữ gìn sức khỏe cho chính mình và cộng đồng Ngân nhé',
-    desc: 'Ngân sẽ thực hiện nó chứ...',
+    desc: '...',
     btnYes: 'Đó là điều chắc chắn rồi :)))',
     btnNo: 'Tôi sẽ không làm điều đó đâu :(((',
     question:'Hãy gửi một thông điệp gì đó cho mọi người đi nào...',
