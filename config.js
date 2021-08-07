@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Tôi sẽ không làm điều đó đâu :(((',
     question:'Hãy gửi một thông điệp gì đó cho mọi người đi nào...',
     btnReply: 'Gửi đi thông điệp',
-    reply: 'Mọi người hãy cùng Ngân chung tay đẩy lùi đại dịch Covid19 này nhé!',
+    reply: 'Mọi người hãy cùng Ngân chung tay đẩy lùi đại dịch Covid19 này nhé!...........',
     mess: 'Đó là điều chắc chắn rồi :))))',
     messDesc: 'Chúc Ngân một ngày mới tràn đầy năng lượng nhé. Khi cần giải pháp bảo vệ hãy liên hệ Quang nhé. SĐT nè: 0904321312!',
     btnAccept: 'Okiiiii lun <3',
